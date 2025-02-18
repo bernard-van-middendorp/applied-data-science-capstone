@@ -4,6 +4,7 @@ In this capstone project, our goal is to predict the successful landing of the F
 
 
 Files:
+- EDA with SQL: [jupyter-labs-eda-sql-coursera_sqllite.ipynb](jupyter-labs-eda-sql-coursera_sqllite.ipynb)
 - Interactive Map with Folium: [lab_jupyter_launch_site_location.ipynb](lab_jupyter_launch_site_location.ipynb)
 - Dashboard with Plotly Dash: [spacex_dash_app.py](spacex_dash_app.py)
 - Predictive Analysis: [SpaceX_Machine_Learning_Prediction_Part_5.ipynb](SpaceX_Machine_Learning_Prediction_Part_5.ipynb)
