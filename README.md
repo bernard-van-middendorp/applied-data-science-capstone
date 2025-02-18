@@ -4,6 +4,7 @@ In this capstone project, our goal is to predict the successful landing of the F
 
 
 Files:
+- Data Collection by scraping: [jupyter-labs-webscraping.ipynb](jupyter-labs-webscraping.ipynb)
 - Data Wrangling: [labs-jupyter-spacex-Data_wrangling.ipynb](labs-jupyter-spacex-Data_wrangling.ipynb)
 - EDA with Data Visualization: [edadataviz.ipynb](edadataviz.ipynb)
 - EDA with SQL: [jupyter-labs-eda-sql-coursera_sqllite.ipynb](jupyter-labs-eda-sql-coursera_sqllite.ipynb)
