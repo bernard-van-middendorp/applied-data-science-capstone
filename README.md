@@ -4,4 +4,5 @@ In this capstone project, our goal is to predict the successful landing of the F
 
 
 Files:
+- Dashboard with Plotly Dash: [spacex_dash_app.py](spacex_dash_app.py)
 - Predictive Analysis: [SpaceX_Machine_Learning_Prediction_Part_5.ipynb](SpaceX_Machine_Learning_Prediction_Part_5.ipynb)
